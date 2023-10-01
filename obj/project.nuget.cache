@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "sUANDGldpzBNT9snicl8JBgH6YTXrf2svEXx1xR1tqO4XLfhtKcy0nTLEP03IZML41WUvo/KkjolTp4XO8Xlmw==",
+  "dgSpecHash": "ogBXeI5k5ULwhRotXSlDhWTf44aWRg7oFV7N5ATaAHu6nuFXx+T+KEzpXWMmcoVWMnXqS9ZBO/eAHVkZ3AsLMw==",
   "success": true,
   "projectFilePath": "C:\\dotnet\\ConsoleApp\\ConsoleApp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Giga\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\7.0.11\\microsoft.aspnetcore.app.runtime.win-x64.7.0.11.nupkg.sha512",
+    "C:\\Users\\Giga\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\7.0.11\\microsoft.windowsdesktop.app.runtime.win-x64.7.0.11.nupkg.sha512",
+    "C:\\Users\\Giga\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\7.0.11\\microsoft.netcore.app.runtime.win-x64.7.0.11.nupkg.sha512"
+  ],
   "logs": []
 }

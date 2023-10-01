@@ -1,0 +1,2 @@
+C:\dotnet\ConsoleApp\bin\Debug\net7.0\win-x64\publish\ConsoleApp.pdb
+C:\dotnet\ConsoleApp\bin\Debug\net7.0\win-x64\publish\ConsoleApp.exe
